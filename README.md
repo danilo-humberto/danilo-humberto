@@ -1,4 +1,4 @@
-Olá, eu me chamo Danilo Humbereto!
+Olá, eu me chamo Danilo Humberto!
 
 Faz pouco tempo em que entrei nesse mundo da programação.
 Atualmente estou cursando Informática para Internet no IFPE.
