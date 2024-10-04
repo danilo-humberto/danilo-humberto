@@ -3,7 +3,7 @@
 # Olá, me chamo Danilo Humberto.
 
 <p align="justify">
-  Atualmente sou estudante do IFPE do curso técnico de Informática para Internet. 
+  Atualmente sou estudante do IFPE do curso superior de Análise e Desenvolvimento de Sistemas. Também já completei o curso técnico subsequente de Informática para Internet pelo IFPE. 
 </p>
 
 <p align="justify">
