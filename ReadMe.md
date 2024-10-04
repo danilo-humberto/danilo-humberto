@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 # Olá, me chamo Danilo Humberto.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="justify">
   Atualmente sou estudante do IFPE do curso superior de Análise e Desenvolvimento de Sistemas. Também já completei o curso técnico subsequente de Informática para Internet pelo IFPE. 
