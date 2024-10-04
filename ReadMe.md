@@ -7,7 +7,7 @@
 </p>
 
 <p align="justify">
-  Sou um mero amante da tecnologia e da programação que está iniciando na área com o desejo de se tornar um dev full-stack no futuro, porém, hoje em dia se identifica mais com o front-end.
+  Sou um mero amante da tecnologia e da programação que está iniciando na área com o desejo de se tornar um dev full-stack no futuro, porém, hoje em dia se identifica mais com o Desenvolvimento Web, utilizando ReactJS.
 </p>
 
 <p align="left">
@@ -24,12 +24,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<p align='left'>
-  Porém uso mais JavaScript, HTML e CSS para fazer projetos front-end como treinamento.
-</p>
-
 <p align="left">
-  💼 Trabalho como assistente de TI, na maioria das vezes concertando eletrônicos. 
+  💼 Trabalho como assistente de TI, na Cifra Engenharia. 
 </p>
 
 <p align="left">
